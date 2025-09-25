@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Hirschhorn</h1>
 <h3 align="center">A passionate Math and Computer Science major looking to break into the world of Data Analytics</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sam-hirschhorn](https://github.com/sam-hirschhorn)
+- 👨‍💻 All of my projects are available at [https://github.com/sam-hirschhorn/projects](https://github.com/sam-hirschhorn/projects)
 
 - 📫 How to reach me **samhirschhorn212@gmail.com**
 
